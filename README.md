@@ -5,7 +5,10 @@
 - 🌱 I’m currently working and studying in the field of Deep Learning 🤿 and Neurobiology 🧠
      Also working with LLMs and Medical Imaging domain 💀🦴
 - ✨ My current project connected with Deep Brain Stimulations and Neural Data Analysis
-- 🎨 I am also an artist, so you can ask me about scientific illustrations if you want ^^
-- 💬 Ask me about brain, deep learning or math. I am enthusiastic to discuss it! 
-- 📫 How to reach me: you can pm me with [telegram](https://t.me/NevermindOnArt) or via email [ekaterina.kuzmina@skoltech.ru]
 - 🌝 I’m looking to collaborate on brain data analysis, brain-computer-interfaces and ML tools!
+- 💬 Ask me about brain, deep learning and math. I am enthusiastic to discuss it! 
+  🎨 I am also an artist, so you can ask me about scientific illustrations if you want ^^
+
+  
+- 📫 How to reach me: you can pm me with [telegram](https://t.me/NevermindOnArt) or via email [ekaterina.kuzmina@skoltech.ru]
+
