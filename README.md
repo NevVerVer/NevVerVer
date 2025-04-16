@@ -1,6 +1,6 @@
 ### 👀 Hi! My name is Kate. 
 
-- 🐱 I am a 2nd year PhD at [Skoltech](https://skoltech.ru/) and a research scientist at [AIRI](https://airi.net/)
+- 🐱 I am a 3rd year PhD at [Skoltech](https://skoltech.ru/) and a research scientist at [AIRI](https://airi.net/)
      You can check out my [Google Scholar](https://scholar.google.com/citations?user=pXx97XgAAAAJ&hl=ru) here
 - 🌱 I’m currently working and studying in the field of Deep Learning 🤿 and Neurobiology 🧠
 - ✨ My current project connected with Deep Brain Stimulations and Neural Data Analysis
